@@ -1,2 +1,2 @@
-# Python-Snake-Game
-Snake Game Old Dreams ;)
+<h1>Snake Game</h1>
+<h3>Old Days!! :)</h3>
